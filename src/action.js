@@ -1,0 +1,16 @@
+export const CATEGORYLIST_OPEN = "CATEGORYLIST_OPEN";
+export const CATEGORYLIST_CLOSE = "CATEGORYLIST_CLOSE";
+
+// ! Action for Category
+
+export const CATEGORY_LOADING = "CATEGORY_LOADING";
+export const CATEGORY_ERROR = "CATEGORY_ERROR";
+export const CATEGORY_SUCCESS = "CATEGORY_SUCCESS";
+
+// ! Action for Products
+
+export const PRODUCTS_LOADING = "PRODUCTS_LOADING";
+export const PRODUCTS_ERROR = "PRODUCTS_ERROR";
+export const PRODUCTS_SUCCESS = "PRODUCTS_SUCCESS";
+
+export const ADDTOCART = "ADDTOCART";
